@@ -39,9 +39,9 @@
                     "vmSize": "Standard_DS2_v2"
                 },
                 "osProfile": {
-                    "computerName": "vm1",
-                    "adminUsername": "AZadmin",
-                    "adminPassword": "Qwertyuiopa!",
+                    "computerName": "NAME",
+                    "adminUsername": "ADMIN NAME",
+                    "adminPassword": "PASSWORD",
                     "linuxConfiguration": {
                         "disablePasswordAuthentication": false
                     }
